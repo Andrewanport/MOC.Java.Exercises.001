@@ -5,7 +5,6 @@
 
 package CEV.A2;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class A014 {
