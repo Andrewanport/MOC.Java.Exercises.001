@@ -15,7 +15,6 @@
 package CEV.P1;
 
 import java.util.Scanner;
-import java.util.function.DoubleFunction;
 
 public class P003 {
     public static void main(String[] args) {
